@@ -5,7 +5,7 @@
 
     <div class="container flex flex-col items-center justify-center text-center py-20">
         <p class="text-base font-semibold text-indigo-400">500</p>
-        <h1 class="mt-4 text-5xl font-semibold tracking-tight text-balance text-white sm:text-7xl">
+        <h1 class="mt-4 text-5xl font-semibold tracking-tight text-balance dark:text-white sm:text-7xl">
             {{ __('errors.500.title') }}
         </h1>
         <p class="mt-6 text-lg font-medium text-pretty text-gray-400 sm:text-xl/8">
